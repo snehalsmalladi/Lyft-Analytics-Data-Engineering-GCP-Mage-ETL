@@ -38,6 +38,7 @@ The objective of this initiative is to design an end to end data analytics pipel
 
 # Analytics Dashboard:
 
-[Lyft Trip Analytics Dashboard (1).pdf](https://github.com/snehalsmalladi/Lyft-Analytics-Data-Engineering-GCP-Mage-ETL/files/13697760/Lyft.Trip.Analytics.Dashboard.1.pdf)
+<img width="736" alt="Screenshot 2023-12-17 at 4 06 03 PM" src="https://github.com/snehalsmalladi/Lyft-Analytics-Data-Engineering-GCP-Mage-ETL/assets/75508260/1b619e48-9624-4441-ace5-55544dd4bbd6">
+
 
 
