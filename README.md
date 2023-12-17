@@ -28,10 +28,16 @@ The objective of this initiative is to design an end to end data analytics pipel
     * Looker Studio: Looker stands as a scalable, serverless, machine learning-infused business intelligence (BI) service tailored for cloud environments.
 * Mage AI: This powerful AI tool is the perfect choice for on the fly data extraction, transformation and loading using python scripts and data frames for easy ETL design. 
  
-# Data Model 
+# Data Model:
 
 <img width="1236" alt="Screenshot 2023-12-17 at 3 37 42 PM" src="https://github.com/snehalsmalladi/Lyft-Analytics-Data-Engineering-GCP-Mage-ETL/assets/75508260/e92fe95d-a6b3-481d-a81f-f9868ee81acc">
 
-# Framework 
+# Framework:
 
 ![image](https://github.com/snehalsmalladi/Lyft-Analytics-Data-Engineering-GCP-Mage-ETL/assets/75508260/1cbd68b0-55b3-4f56-b221-0c51ca263456)
+
+# Analytics Dashboard:
+
+[Lyft Trip Analytics Dashboard (1).pdf](https://github.com/snehalsmalladi/Lyft-Analytics-Data-Engineering-GCP-Mage-ETL/files/13697760/Lyft.Trip.Analytics.Dashboard.1.pdf)
+
+
